@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm a student at Sakarya University<br>🔭 I’m currently working on Koçtaş Automation Test Engineer Asistant<br>🌱 I’m currently learning Flutter
+📚 I'm a student at Sakarya University<br>🔭 I’m currently working on Automation Test Engineer Asistant at Koçtaş<br>🌱 I’m currently learning Flutter
 
 
 ## 🌐 Socials:
