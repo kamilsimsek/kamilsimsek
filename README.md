@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm a student at Sakarya University<br>
+📚 I'm a Software Engineer Intern at Valven<br>
 
 
 ## 🌐 Socials:
